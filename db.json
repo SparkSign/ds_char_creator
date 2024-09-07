@@ -22,8 +22,45 @@
             ],
             "domainEffects": [
                 {
-                    "effectName": "Knowledge Domain Effect",
+                    "effectName": "Knowledge",
                     "effectDescription":"Choose up to three allies within 10 squares of you. Each ally has a double edge on the next power roll they make."
+                },
+                {
+                    "effectName": "Life",
+                    "effectDescription":"You or an ally within 10 squares of you can spend 2 Recoveries, can end any effects on them that have a duration of EoT or are ended by a resistance roll, and can stand up if they are prone. Alternatively, you or an ally within 10 squares of you gains 20 temporary Stamina." 
+                },
+                {
+                    "effectName": "Love",
+                    "effectDescription":"Each ally within 10 squares of you gains 5 temporary Stamina, and gains an edge on the next power roll they make before the end of the encounter."
+                },
+                {
+                    "effectName": "Nature",
+                    "effectDescription": "Vines whip up from the floor or ground around a creature of your choice within 10 squares of you, then slide that creature a number of squares equal to 3 times your Intuition score."
+                },
+                {
+                    "effectName":"Protection",
+                    "effectDescription":"An ally of your choice within 10 squares of you gains damage immunity equal to your Intuition score plus your level, which lasts until the end of your next turn."
+                },
+                {
+                    "effectName":"Storm",
+                    "effectDescription":"Each enemy in a 3-cube area within 10 squares of you takes lightning damage equal to 5 + your conduit level."
+                },
+                {
+                    "effectName":"Sun",
+                    "effectDescription":"An enemy of your choice within 10 squares of you takes fire damage equal to 10 + your conduit level."
+                },
+                {
+                    "effectName":"Trickery",
+                    "effectDescription":"Choose a creature within 10 squares of you. You can slide that creature a number of squares equal to 5 + your conduit level. If you choose a willing ally, this movement can ignore their stability."
+                },
+                {
+                    "effectName":"War",
+                    "effectDescription":"Your attacks deal extra damage equal to twice your Intuition score until the end of your next turn."
+                }
+            ],
+            "domainFeatures": [
+                {
+                    
                 }
             ]
         }, 
