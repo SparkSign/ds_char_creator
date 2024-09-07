@@ -1,0 +1,119 @@
+{
+    "classTree": [
+        {
+            "class":"Conduit",
+            "resource": "Piety",
+            "baseStats": [
+                {
+                    "Might": null
+                },
+                {
+                    "Agility": null
+                },
+                {
+                    "Reason":null
+                },
+                {
+                    "Intuition": 2
+                },
+                {
+                    "Presence": 2
+                }
+            ],
+            "domainEffects": [
+                {
+                    "effectName": "Knowledge Domain Effect",
+                    "effectDescription":"Choose up to three allies within 10 squares of you. Each ally has a double edge on the next power roll they make."
+                }
+            ]
+        }, 
+        {
+            "class": "Elementalist",
+            "resource": "Essence",
+            "baseStats": [
+                {
+                    "Might": null
+                },
+                {
+                    "Agility": null
+                },
+                {
+                    "Reason": 2
+                },
+                {
+                    "Intuition": 2
+                },
+                {
+                    "Presence": null
+                }
+            ]
+
+        }, 
+        {
+            "class":"Fury",
+            "resource": "Rage",
+            "baseStats": [
+                {
+                    "Might": 2
+                },
+                {
+                    "Agility": 2
+                },
+                {
+                    "Reason":null
+                },
+                {
+                    "Intuition": null
+                },
+                {
+                    "Presence": null
+                }
+            ]
+
+        }, 
+        {
+            "class":"Shadow",
+            "resource": "Insight",
+            "baseStats": [
+                {
+                    "Might": null
+                },
+                {
+                    "Agility": 2
+                },
+                {
+                    "Reason":null
+                },
+                {
+                    "Intuition": null
+                },
+                {
+                    "Presence": 2
+                }
+            ]
+
+        }, 
+        {
+            "class": "Tactician",
+            "resource":"Focus",
+            "baseStats": [
+                {
+                    "Might": 2
+                },
+                {
+                    "Agility": null
+                },
+                {
+                    "Reason":2
+                },
+                {
+                    "Intuition": null
+                },
+                {
+                    "Presence": null
+                }
+            ]
+
+        } 
+    ]
+}
